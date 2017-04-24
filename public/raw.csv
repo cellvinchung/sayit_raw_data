@@ -258,7 +258,7 @@
             <input type="hidden" name="csrfPreventionSalt" value="" tabindex="20"	/>
             <input id="btn_search" type="submit" value="資料搜尋" class="search_submit" style="box-shadow: none;border-radius: 0 5px 5px 0;height:32px;width:73px;" title="資料搜尋">
            
-            <input type="hidden" name="as_sfid" value="AAAAAAVRqXUboUIELu12OFJmw1hw417hGOCWfZh7Oqt1gj1_b8xHLByzYT7lnf5tu3sdmnYdY_K129mPWUXhSxYNd19-QQZ6UDVv0vPGSvt_o5PSFzmCl0KLD7V8lrWDrW-erBY=" /><input type="hidden" name="as_fid" value="7df7d24c366fdceb802132a363917efd3ee17421" /></form>
+            <input type="hidden" name="as_sfid" value="AAAAAAVDhPBY7Ryybh1PDvOYG7mKu2vBHhez7uk3f9qdJ02Zt4fx_YWvy_ZHTk9czo_xpfsVRdHNRqfXlxDts9nJh2xwyn6s7rZQEqnJLlBPjosazmq9n7rNt8TX72uGw4Xws_U=" /><input type="hidden" name="as_fid" value="7df7d24c366fdceb802132a363917efd3ee17421" /></form>
             </span>
           </div>
           <div class="index_content">
@@ -277,7 +277,7 @@
                 <ul>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -311,7 +311,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -345,7 +345,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -379,7 +379,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -413,7 +413,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -553,7 +553,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -586,7 +586,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -602,7 +602,7 @@
 									
 									
 									
-										<a href='/listcatelog.action?catCd=161' class="block fontbold" title="原始檔類">原始檔類</a>
+										<a href='/listcatelog.action?catCd=11' class="block fontbold" title="會議類">會議類</a>
 										
 									
 	
@@ -612,8 +612,8 @@
 							
 							</span>
 							<span class="link_coffee link_registername">
-							<a href='/getds.action?id=25' title='議事日程原始檔案'>
-							議事日程原始檔案
+							<a href='/getds.action?id=221' title='院會發言名單'>
+							院會發言名單
 							</a>
 							</span>			
 							</li>
@@ -626,7 +626,7 @@
                 <ul>
 				
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -660,7 +660,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -694,7 +694,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -728,41 +728,7 @@
 							</li>
 					
 						<li>	
-							<span class="float_right font_13">2017-04-24</span>
-							<span class="link_catelog">
-							
-							
-							
-								
-								
-								
-								
-									
-								
-
-								
-									
-									
-									
-									
-										<a href='/listcatelog.action?catCd=101' class="block fontbold" title="其他類">其他類</a>
-										
-									
-	
-								
-								
-								
-							
-							</span>
-							<span class="link_coffee link_registername">
-							<a href='/getds.action?id=144' title='遊說案件變更登記'>
-							遊說案件變更登記
-							</a>
-							</span>			
-							</li>
-					
-						<li>	
-							<span class="float_right font_13">2017-04-24</span>
+							<span class="float_right font_13">2017-04-25</span>
 							<span class="link_catelog">
 							
 							
@@ -791,6 +757,40 @@
 							<span class="link_coffee link_registername">
 							<a href='/getds.action?id=148' title='委員發言片段相關影片資訊'>
 							委員發言片段相關影片資訊
+							</a>
+							</span>			
+							</li>
+					
+						<li>	
+							<span class="float_right font_13">2017-04-25</span>
+							<span class="link_catelog">
+							
+							
+							
+								
+								
+								
+								
+									
+								
+
+								
+									
+									
+									
+									
+										<a href='/listcatelog.action?catCd=101' class="block fontbold" title="其他類">其他類</a>
+										
+									
+	
+								
+								
+								
+							
+							</span>
+							<span class="link_coffee link_registername">
+							<a href='/getds.action?id=144' title='遊說案件變更登記'>
+							遊說案件變更登記
 							</a>
 							</span>			
 							</li>
@@ -835,7 +835,7 @@
 			</a>
             <a href="http://www.gov.tw/"  target="_blank"><img src="images/icon_egov.png" width="43" height="46" class="margin5" alt="我的E政府" title="我的E政府「另開新視窗」"/></a></div>
             <div class="margin10"><p>Copyright © 2014 立法院版權所有　建議最佳瀏覽環境：IE10.0 /Chrome / FireFox 1024x768以上模式<br/></p>
-              立法院　10051 台北市中正區中山南路1號<span class="link_bg_white"><a href="http://www.ly.gov.tw/07_misc/location.jsp" title="交通位置圖「另開新視窗」" target="_blank"><font size="1">交通位置圖</font></a></span> tel：02-23585858 &nbsp; 瀏覽次數：1590297<br/>
+              立法院　10051 台北市中正區中山南路1號<span class="link_bg_white"><a href="http://www.ly.gov.tw/07_misc/location.jsp" title="交通位置圖「另開新視窗」" target="_blank"><font size="1">交通位置圖</font></a></span> tel：02-23585858 &nbsp; 瀏覽次數：1593476<br/>
               立法院中部辦公室　41341 台中市霧峰區中正路734號 <span class="link_bg_white show" style="display:'block'"><a href="http://www.ly.gov.tw/14_others/policy_security01.jsp" title="隱私權政策" style="display:'block'" target="_blank"><font size="1">隱私權政策</font></a><p style="display:none;">│</p><a href="./security.action" title="個資保護及網站安全政策"><font size="1">個資保護及網站安全政策</font></a><p style="display:none;">│</p><a href="./copyprotection.action" title="立法院網站資料開放宣告"><font size="1">立法院網站資料開放宣告</font></a><p style="display:none;">│</p><a href="http://www.ly.gov.tw" title="機關網站「另開新視窗」" target="_blank"><font size="1">機關網站</font></a></span></div>
 </div>
           
